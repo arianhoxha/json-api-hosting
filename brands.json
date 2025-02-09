@@ -5,7 +5,7 @@
       "origin": "USA",
       "founded": 1976,
       "website": "https://www.apple.com",
-      "logo": "apple_logo.png"
+      "logo": "https://raw.githubusercontent.com/arianhoxha/json-api-hosting/main/images/apple%20logo.jpeg"
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
       "origin": "South Korea",
       "founded": 1938,
       "website": "https://www.samsung.com",
-      "logo": "samsung_logo.png"
+      "logo": "https://raw.githubusercontent.com/arianhoxha/json-api-hosting/main/images/samsung%20logo.jpeg"
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
       "origin": "USA",
       "founded": 1998,
       "website": "https://store.google.com",
-      "logo": "google_logo.png"
+      "logo": "https://raw.githubusercontent.com/arianhoxha/json-api-hosting/main/images/google%20logo.png"
     }
   ]
   
