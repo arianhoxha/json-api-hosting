@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Apple",
+      "origin": "USA",
+      "founded": 1976,
+      "website": "https://www.apple.com",
+      "logo": "apple_logo.png"
+    },
+    {
+      "id": 2,
+      "name": "Samsung",
+      "origin": "South Korea",
+      "founded": 1938,
+      "website": "https://www.samsung.com",
+      "logo": "samsung_logo.png"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "origin": "USA",
+      "founded": 1998,
+      "website": "https://store.google.com",
+      "logo": "google_logo.png"
+    }
+  ]
+  
