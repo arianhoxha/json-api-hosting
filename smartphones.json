@@ -6,7 +6,7 @@
       "price": 999,
       "available": true,
       "release_date": "2022-09-16",
-      "image_url": "iphone14pro.png",
+      "image_url": "https://raw.githubusercontent.com/arianhoxha/json-api-hosting/main/images/IPHONE%2014%20PRO.jpg",
       "category": "Flagship",
       "features": ["5G Connectivity", "ProMotion Display", "Dynamic Island"],
       "brand": {
@@ -21,7 +21,7 @@
       "price": 1199,
       "available": true,
       "release_date": "2023-02-17",
-      "image_url": "s23ultra.png",
+      "image_url": "https://raw.githubusercontent.com/arianhoxha/json-api-hosting/main/images/S23%20ULTRA.jpg",
       "category": "Flagship",
       "features": ["S-Pen Support", "200MP Camera", "8K Video Recording"],
       "brand": {
@@ -36,7 +36,7 @@
       "price": 899,
       "available": true,
       "release_date": "2022-10-13",
-      "image_url": "pixel7pro.png",
+      "image_url": "https://raw.githubusercontent.com/arianhoxha/json-api-hosting/main/images/7%20PRO.jpg",
       "category": "Flagship",
       "features": ["AI Camera", "Stock Android", "Magic Eraser"],
       "brand": {
@@ -51,7 +51,7 @@
       "price": 429,
       "available": true,
       "release_date": "2022-03-18",
-      "image_url": "iphoneXR.png",
+      "image_url": "https://raw.githubusercontent.com/arianhoxha/json-api-hosting/main/images/IPHONE%20XR.jpg",
       "category": "Budget",
       "features": ["Touch ID", "A15 Bionic", "Compact Design"],
       "brand": {
@@ -66,7 +66,7 @@
       "price": 449,
       "available": true,
       "release_date": "2023-04-10",
-      "image_url": "galaxya54.png",
+      "image_url": "https://raw.githubusercontent.com/arianhoxha/json-api-hosting/main/images/A54.jpg",
       "category": "Mid-Range",
       "features": ["AMOLED Display", "5G Support", "Long Battery Life"],
       "brand": {
@@ -81,7 +81,7 @@
       "price": 449,
       "available": false,
       "release_date": "2022-07-28",
-      "image_url": "pixel6a.png",
+      "image_url": "https://raw.githubusercontent.com/arianhoxha/json-api-hosting/main/images/6A%20.jpg",
       "category": "Budget",
       "features": ["5G Support", "Stock Android", "AI Camera"],
       "brand": {
@@ -91,12 +91,12 @@
     },
     {
       "id": 107,
-      "name": "iPhone 13 Mini",
+      "name": "iPhone 13",
       "description": "A compact iPhone with all the power of a full-size model.",
       "price": 599,
       "available": false,
       "release_date": "2021-09-24",
-      "image_url": "iphone13mini.png",
+      "image_url": "https://raw.githubusercontent.com/arianhoxha/json-api-hosting/main/images/IPHONE%2013.jpg",
       "category": "Compact",
       "features": ["Small Form Factor", "A15 Bionic", "Dual Camera"],
       "brand": {
@@ -111,7 +111,7 @@
       "price": 1799,
       "available": true,
       "release_date": "2022-08-25",
-      "image_url": "zfold4.png",
+      "image_url": "https://raw.githubusercontent.com/arianhoxha/json-api-hosting/main/images/Z4.jpg",
       "category": "Foldable",
       "features": ["Foldable Display", "S-Pen Support", "Flex Mode"],
       "brand": {
@@ -126,7 +126,7 @@
       "price": 1799,
       "available": true,
       "release_date": "2023-06-27",
-      "image_url": "pixelfold9pro.png",
+      "image_url": "https://raw.githubusercontent.com/arianhoxha/json-api-hosting/main/images/PIXEL%209%20PRO.jpg",
       "category": "Foldable",
       "features": ["Foldable Design", "AI Camera", "Magic Eraser"],
       "brand": {
@@ -141,7 +141,7 @@
       "price": 699,
       "available": false,
       "release_date": "2020-10-23",
-      "image_url": "iphone12.png",
+      "image_url": "https://raw.githubusercontent.com/arianhoxha/json-api-hosting/main/images/IPHONE%2012.jpg",
       "category": "Previous Gen",
       "features": ["5G Support", "A14 Bionic", "OLED Display"],
       "brand": {
